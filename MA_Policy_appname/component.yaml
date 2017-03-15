@@ -1,0 +1,10 @@
+schema_version: 3.0.0
+name: <appname>
+documentation_complete: false
+satisfies:
+- control_key: MA-4 (2)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53

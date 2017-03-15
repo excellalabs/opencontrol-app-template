@@ -1,0 +1,22 @@
+schema_version: "1.0.0"
+name: <appname>
+metadata:
+  description: <app description>
+  maintainers:
+    - TBD
+components:
+  - ./AC_Policy_<appname>
+  - ./AT_Policy_<appname>
+  - ./AU_Policy_<appname>
+  - ./CA_Policy_<appname>
+  - ./CM_Policy_<appname>
+  - ./CP_Policy_<appname>
+  - ./IA_Policy_<appname>
+  - ./IR_Policy_<appname>
+  - ./MA_Policy_<appname>
+  - ./PL_Policy_<appname>
+  - ./PS_Policy_<appname>
+  - ./RA_Policy_<appname>
+  - ./SA_Policy_<appname>
+  - ./SC_Policy_<appname>
+  - ./SI_Policy_<appname>

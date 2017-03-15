@@ -1,0 +1,22 @@
+schema_version: 3.0.0
+documentation_complete: false
+name: <appname>
+satisfies:
+- control_key: CA-8
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: CA-8 (1)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: CA-9
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53

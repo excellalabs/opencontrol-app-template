@@ -1,0 +1,264 @@
+---
+documentation_complete: false
+name: <appname>
+schema_version: 3.0.0
+satisfies:
+- control_key: AC-2 # Account Management
+  implementation_status: none
+  narrative:
+  - key: a
+    text: >
+      Placeholder
+  - key: b
+    text: >
+      Placeholder
+  - key: c
+    text: >
+      Placeholder
+  - key: d
+    text: >
+      Placeholder
+  - key: e
+    text: >
+      Placeholder
+  - key: f
+    text: >
+      Placeholder
+  - key: g
+    text: >
+      Placeholder
+  - key: h
+    text: >
+      Placeholder
+  - key: i
+    text: >
+      Placeholder
+  - key: j
+    text: >
+      Placeholder
+  - key: k
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (1) # Account Management | Automated System Account Management
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (2) # Account Management | Removal of Temporary / Emergency Accounts
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (3) # Account Management | Disable Inactive Accounts
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (4)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (5) # Account Management | Inactivity Logout
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (7) # Account Management | Role-Based Schemes
+  implementation_status: none
+  narrative:
+  - key: a
+    text: >
+      Placeholder
+  - key: b
+    text: >
+      Placeholder
+  - key: c
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (9)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (10)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-2 (12)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-3 # Access Enforcement
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-4 # Information Flow Enforcement
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-4 (21)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-5 # Separation of Duties
+  implementation_status: none
+  narrative:
+  - key: a
+    text: >
+      Placeholder
+  - key: b
+    text: >
+      Placeholder
+  - key: c
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-6 # Least Privilege
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-6 (1) # Least Privilege | Authorize Access to Security Functions
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-6 (2) # Least Privilege | Non-Privileged Access for Nonsecurity Functions
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-6 (5) # Least Privilege | Privileged Accounts
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-6 (9)  # Least Privilege | Auditing Use of Privileged Functions
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-6 (10) # Least Privilege | Prohibit Non-Privileged Users From Executing Privileged Functions
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-7
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  parameters:
+  - key: AC-7(a)-1
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-8
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-10
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-11
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-11 (1)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-12
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-14 # Permitted Actions Without Identification or Authentication
+  implementation_status: none
+  narrative:
+  - key: a
+    text: >
+      Placeholder
+  - key: b
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-17 # Remote Access
+  implementation_status: none
+  narrative:
+  - key: a
+    text: >
+      Placeholder
+  - key: b
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-17 (1) # Remote Access | Automated Monitoring / Control
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-17 (2)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-17 (3)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-17 (4)  # Remote Access | Privileged Commands / Access
+  implementation_status: none
+  narrative:
+  - key: a
+    text: >
+      Placeholder
+  - key: b
+    text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: AC-17 (9)
+  implementation_status: none
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53

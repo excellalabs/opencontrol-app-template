@@ -1,0 +1,49 @@
+schema_version: 3.0.0
+documentation_complete: false
+name: <appname>
+satisfies:
+- control_key: SC-2
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-6 # Resource Availability
+  narrative:
+  - text: >
+      Placeholder
+ standard_key: NIST-800-53
+- control_key: SC-8 # Transmission Confidentiality and Integrity
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-12
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-12 (2)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-12 (3)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-13 # Cryptographic Protection
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-28
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SC-28 (1)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53

@@ -1,0 +1,39 @@
+schema_version: 3.0.0
+documentation_complete: false
+name: <appname>
+satisfies:
+- control_key: SA-5
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SA-10
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SA-10 (1)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SA-11
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SA-11 (1)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SA-11 (2)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
+- control_key: SA-11 (8)
+  narrative:
+  - text: >
+      Placeholder
+  standard_key: NIST-800-53
