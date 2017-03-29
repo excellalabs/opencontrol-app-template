@@ -3,19 +3,16 @@ documentation_complete: false
 name: <appname>
 satisfies:
 - control_key: CM-2
-  implementation_status: none
   narrative:
   - text: >
       Placeholder
   standard_key: NIST-800-53
 - control_key: CM-2 (1)
-  implementation_status: none
   narrative:
   - text: >
       Placeholder
   standard_key: NIST-800-53
 - control_key: CM-6
-  implementation_status: none
   narrative:
     - key: a
       text: >
@@ -37,7 +34,6 @@ satisfies:
       Placeholder
   standard_key: NIST-800-53
 - control_key: CM-7 (1)
-  implementation_status: none
   narrative:
   - key: a
     text: >
@@ -47,13 +43,11 @@ satisfies:
       Placeholder
   standard_key: NIST-800-53
 - control_key: CM-7 (2)
-  implementation_status: none
   narrative:
   - text: >
       Placeholder
   standard_key: NIST-800-53
 - control_key: CM-7 (5)
-  implementation_status: none
   narrative:
   - text: >
       Placeholder
